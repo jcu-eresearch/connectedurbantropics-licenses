@@ -1,4 +1,17 @@
 [{
+        "domain_content": true,
+        "domain_data": true,
+        "domain_software": false,
+        "family": "",
+        "id": "CC-BY-3.0-AU",
+        "maintainer": "Creative Commons",
+        "od_conformance": "approved",
+        "osd_conformance": "not reviewed",
+        "status": "active",
+        "title": "Creative Commons Attribution 3.0 AU",
+        "url": "https://creativecommons.org/licenses/by/4.0/au"
+    },
+    {
         "domain_content": false,
         "domain_data": true,
         "domain_software": false,
